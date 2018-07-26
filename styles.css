@@ -1,0 +1,54 @@
+html {
+    background: url('E:/Coding/Europa Claim And Conquer/img/EuropaMapa.jpg') no-repeat center center fixed;
+    background-color: seagreen;
+}
+
+.title_screen {
+    display: block;
+    font-family: 'Tangerine', cursive;
+}
+
+.help_button {
+    float: right;
+    margin: -195px 0px 0px auto;
+    height: 30px;
+    width: 30px;
+    padding-right: 10px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+}
+
+.intro_text{
+    float: center;
+    margin: 200px auto 0px auto;
+    padding: 20px 15px 10px 15px;
+    height: 290px;
+    width: 200px;
+    text-align: center;
+    font-size: 28px;
+    background-color: #d1b57b;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.play_button {
+    float: center;
+    margin: 5px auto 0px auto;
+    margin-top: 10px;
+    padding-right: 10px;
+    height: 35px;
+    width: 65px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    font-size: 24px ;
+}
+
